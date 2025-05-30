@@ -1,0 +1,12 @@
+// Objetivo de hoje:
+// Entender o que é funcoes no JS, conhecer como declarar e usar
+// Praticar com exemplos e exercicios.
+
+// O que é uma função? 🤔
+// é algo a ser realizado.
+// é um bloco de código que pode ser reutilizado em qualquer parte do nosso código ou projeto. E ela executa uma tarefa especifica.
+// A funcao possui tres partes importantes: o valor (parametro) e seu corpo (bloco de codigo), e seu resultado (return).
+// Mantem o codigo sempre organizado (modularizacao).
+// Escreve uma vez, e usa várias vezes (reuso).
+// Nomes descritivos claros e diretos (legibilidade).
+
